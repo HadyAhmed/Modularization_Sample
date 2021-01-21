@@ -1,0 +1,4 @@
+include ':datasource'
+include ':home'
+include ':app'
+rootProject.name = "Modularization Sample"
